@@ -1,5 +1,6 @@
 import React from 'react';
-import PostList from '../post-list';
+import '../post-add-form/post-add-form.css';
+//import PostList from '../post-list';
 
 const PostAddForm = () => {
     return (
