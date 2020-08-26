@@ -1,7 +1,16 @@
 import React from 'react';
+import AppHeader from '../app-header';
+import SearchPanel from '../search-panel';
 
 const App = () => {
-    return(<h1>Hello</h1>)
+    return(
+        <div>
+            <AppHeader/>
+            <div className="search-panel d-flex">
+                <SearchPanel/>
+            </div>
+        </div>
+    )
 }
 
 export default App;
