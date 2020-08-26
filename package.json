@@ -16,6 +16,10 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViktorIukhlin/MyForum.git"
+  },
   "eslintConfig": {
     "extends": "react-app"
   },
