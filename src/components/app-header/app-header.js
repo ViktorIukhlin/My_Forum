@@ -20,7 +20,7 @@ const Header = styled.div`
 
 const AppHeader = () => {
     return (
-        <Header colored>
+        <Header>
             <h1>Viktor Iukhlin</h1>
             <h2>5 записей, из них понравилось 0</h2>
         </Header>
